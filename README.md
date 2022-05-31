@@ -1,3 +1,3 @@
-# Página web creada con TailwindCSS
+#### _Video_: Tailwind Crash Course Project From Scratch | Traversy Media
 
-Video: Tailwind Crash Course | Project From Scratch (Traversy Media)
+# Página web creada con TailwindCSS
